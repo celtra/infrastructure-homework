@@ -2,7 +2,7 @@
 
 Below you will find instructions for infrastructure engineer homework.
 
-Your objection is to build service, that will handle user requests in a scalable manner. 
+Your objective is to build service, that will handle user requests in a scalable manner. 
 
 ## Instructions
 1. Clone/fork/copy this repo
